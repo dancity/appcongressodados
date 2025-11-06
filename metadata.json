@@ -1,0 +1,5 @@
+{
+  "name": "School Management Dashboard",
+  "description": "An application for managing and viewing school reports, including student information, guardian details, pastoral care records, and academic performance. Features filtering and sorting capabilities for easy data analysis.",
+  "requestFramePermissions": []
+}
